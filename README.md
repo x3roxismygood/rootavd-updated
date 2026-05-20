@@ -1,3 +1,5 @@
+# This isn't the official rootAVD repo. This is just an updated version of it as of May 20, 2026
+
 # This Repo has moved to GitLab since 24th of Oct 2023
 # [rootAVD](https://gitlab.com/newbit/rootAVD)
 ### [newbit @ xda-developers](https://forum.xda-developers.com/m/newbit.1350876)
